@@ -1,0 +1,44 @@
+h1{
+    font-size: 400%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-image: url(./img/nero.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+}
+p{
+    color: red;
+    background-color: black;
+    margin: 50px;
+    border: 7px solid red;
+    padding: 5px;
+}
+pre{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    font-size: 22px;
+    text-align: center;
+    padding: 5px;
+}
+table.tb{
+    color: red;
+    font-family: sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 120%;
+}
+.tb thead{
+    background-color: red; color: black;
+}
+.tb th, .tb td{
+    border: solid 3px red;
+    text-align: center;
+}
+dl{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
